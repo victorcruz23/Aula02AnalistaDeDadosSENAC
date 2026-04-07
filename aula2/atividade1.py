@@ -23,5 +23,3 @@ print ('hello world')
 
 
 
-
-
